@@ -40,6 +40,6 @@ function SignUp(){
 }
 
 ReactDOM.render(
-    <SignUp/>,
+    <SignUp />,
     document.getElementById('root')
 )
